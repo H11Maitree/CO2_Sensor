@@ -1,0 +1,8 @@
+v1.1.1 -- Fixes
+ * Allow listing devices without specifying a serial number
+
+v1.1 -- New features
+ * Add the 'all_off' command to disable all relays at once
+
+v1.0 -- initial release
+

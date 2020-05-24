@@ -1,0 +1,8 @@
+To compile, simply type 'make'.
+
+Note that you should have the following packages installed:
+
+ * make
+ * gcc
+ * libusb-dev
+

@@ -1,0 +1,5 @@
+99-dracal-2relays.rules
+
+Adding this file to /etc/udev/rules.d on Debian (and others) instructs udev to set
+access permissions for the device. By default this is 0664, group plugdev. Edit
+to suit your needs.
